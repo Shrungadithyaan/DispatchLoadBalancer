@@ -177,14 +177,6 @@ dispatch-load-balancer/
 
 ---
 
-## **Reference Links**
-- [Spring Boot Documentation](https://docs.spring.io/spring-boot/index.html)
-- [Java Enum Reference](https://www.w3schools.com/java/ref_keyword_enum.asp)
-- [Java Documentation](https://www.tutorialspoint.com/java/java_documentation.htm)
-- [Maven POM Guide](https://maven.apache.org/pom.html)
-
----
-
 ## **Contact**
 For any questions or issues, please contact:
 
@@ -205,3 +197,11 @@ For any questions or issues, please contact:
 [![Image 3](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/3c.png?raw=true)](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/3c.png?raw=true)
 
 [![Image 4](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/5c.png?raw=true)](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/5c.png?raw=true)
+
+---
+
+## **Reference Links**
+- [Spring Boot Documentation](https://docs.spring.io/spring-boot/index.html)
+- [Java Enum Reference](https://www.w3schools.com/java/ref_keyword_enum.asp)
+- [Java Documentation](https://www.tutorialspoint.com/java/java_documentation.htm)
+- [Maven POM Guide](https://maven.apache.org/pom.html)
