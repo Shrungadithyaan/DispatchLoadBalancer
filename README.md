@@ -193,12 +193,15 @@ For any questions or issues, please contact:
 - **GitHub**: [Shrungadithyaan](https://github.com/Shrungadithyaan)  
 - **Portfolio**: [shrungadithya.netlify.app](https://shrungadithya.netlify.app/)
 
+---
 
 ## **Output**
-![1c](https://github.com/user-attachments/assets/f44ed103-0a85-46c6-880f-bd59f7b2091b)
-![2c](https://github.com/user-attachments/assets/fddace61-fb20-4a90-a8c2-9b75ca3b71ac)
-![3c](https://github.com/user-attachments/assets/d26f061b-3f3c-4b2b-9c80-bb679fb9e675)
-![4c](https://github.com/user-attachments/assets/789d2d22-98a5-4987-bd36-90389dce8346)
-![5c](https://github.com/user-attachments/assets/38e36f13-df66-4baa-ac38-384e6b0511e9)
 
 
+[![Image 1](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/1c.png?raw=true)](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/1c.png?raw=true)
+
+[![Image 2](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/2c.png?raw=true)](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/2c.png?raw=true)
+
+[![Image 3](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/3c.png?raw=true)](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/3c.png?raw=true)
+
+[![Image 4](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/5c.png?raw=true)](https://github.com/Shrungadithyaan/DispatchLoadBalancer/blob/main/output_IMG/5c.png?raw=true)
