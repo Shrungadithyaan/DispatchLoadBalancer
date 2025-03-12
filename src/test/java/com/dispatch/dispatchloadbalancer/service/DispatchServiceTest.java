@@ -32,11 +32,11 @@ public class DispatchServiceTest {
     public void generateDispatchPlan_ShouldReturnValidPlan() {
         // Arrange
         List<Order> orders = new ArrayList<>(Arrays.asList(
-                new Order("ORD001", 12.9716, 77.5946, "MG Road, Bangalore", 10.0, Priority.HIGH)
+                new Order("ORD001", 12.2958, 76.6394, "MG Road, Mysore", 10.0, Priority.HIGH)
         ));
 
         List<Vehicle> vehicles = new ArrayList<>(Arrays.asList(
-                new Vehicle("VEH001", 100.0, 12.9716, 77.6413, "Indiranagar, Bangalore")
+                new Vehicle("VEH001", 100.0, 12.3180, 76.6548, "Vijayanagar, Mysore")
         ));
 
         when(orderRepository.findAll()).thenReturn(orders);
@@ -56,12 +56,12 @@ public class DispatchServiceTest {
     public void generateDispatchPlan_ShouldAssignHighPriorityOrdersFirst() {
         // Arrange
         List<Order> orders = new ArrayList<>(Arrays.asList(
-                new Order("ORD001", 12.9716, 77.5946, "MG Road, Bangalore", 10.0, Priority.MEDIUM),
-                new Order("ORD002", 13.0827, 80.2707, "Anna Salai, Chennai", 20.0, Priority.HIGH)
+                new Order("ORD001", 12.2958, 76.6394, "MG Road, Mysore", 10.0, Priority.MEDIUM),
+                new Order("ORD002", 18.5204, 73.8567, "Baner, Pune", 20.0, Priority.HIGH)
         ));
 
         List<Vehicle> vehicles = new ArrayList<>(Arrays.asList(
-                new Vehicle("VEH001", 100.0, 12.9716, 77.6413, "Indiranagar, Bangalore")
+                new Vehicle("VEH001", 100.0, 12.3180, 76.6548, "Vijayanagar, Mysore")
         ));
 
         when(orderRepository.findAll()).thenReturn(orders);

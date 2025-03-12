@@ -29,9 +29,8 @@ public class OrderServiceTest {
     public void saveOrders_ShouldPersistOrders() {
         // Arrange
         List<Order> orders = Arrays.asList(
-                new Order("ORD001", 12.9716, 77.5946, "Bangalore", 10.0, Priority.HIGH)
+                new Order("ORD001", 12.2958, 76.6394, "Mysore", 10.0, Priority.HIGH)
         );
-
         when(orderRepository.saveAll(orders)).thenReturn(orders);
 
         // Act
@@ -45,7 +44,7 @@ public class OrderServiceTest {
     public void getAllOrders_ShouldReturnAllOrders() {
         // Arrange
         List<Order> orders = Arrays.asList(
-                new Order("ORD001", 12.9716, 77.5946, "Mysore", 10.0, Priority.HIGH)
+                new Order("ORD001", 12.2958, 76.6394, "Mysore", 10.0, Priority.HIGH)
         );
 
         when(orderRepository.findAll()).thenReturn(orders);

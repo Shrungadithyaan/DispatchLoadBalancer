@@ -30,7 +30,7 @@ public class OrderControllerTest {
     public void addOrders_ShouldReturnSuccessMessage() {
         // Arrange
         List<Order> orders = Arrays.asList(
-                new Order("ORD001", 12.9716, 77.5946, "Bangalore", 10.0, Priority.HIGH)
+                new Order("ORD001", 12.2958, 76.6394, "Mysore", 10.0, Priority.HIGH)
         );
         Map<String, List<Order>> request = Map.of("orders", orders);
 

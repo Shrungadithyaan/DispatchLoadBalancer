@@ -28,7 +28,7 @@ public class VehicleServiceTest {
     public void saveVehicles_ShouldPersistVehicles() {
         // Arrange
         List<Vehicle> vehicles = Arrays.asList(
-                new Vehicle("VEH001", 100.0, 12.9716, 77.6413, "Bangalore")
+                new Vehicle("VEH001", 100.0, 12.2958, 76.6394, "Mysore")
         );
 
         when(vehicleRepository.saveAll(vehicles)).thenReturn(vehicles);
@@ -44,7 +44,7 @@ public class VehicleServiceTest {
     public void getAllVehicles_ShouldReturnAllVehicles() {
         // Arrange
         List<Vehicle> vehicles = Arrays.asList(
-                new Vehicle("VEH001", 100.0, 12.9716, 77.6413, "Mysore")
+                new Vehicle("VEH001", 100.0, 12.2958, 76.6394, "Mysore")
         );
 
         when(vehicleRepository.findAll()).thenReturn(vehicles);

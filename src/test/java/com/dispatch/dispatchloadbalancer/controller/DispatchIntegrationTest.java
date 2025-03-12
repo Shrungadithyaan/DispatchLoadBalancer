@@ -42,11 +42,11 @@ public class DispatchIntegrationTest {
     public void getDispatchPlan_ShouldReturnValidResponse() throws Exception {
         // Arrange
         List<Order> orders = Arrays.asList(
-                new Order("ORD001", 12.9716, 77.5946, "MG Road, Bangalore", 10.0, Priority.HIGH)
+                new Order("ORD001", 12.2958, 76.6394, "Devaraja Mohalla, Mysore", 10.0, Priority.HIGH)
         );
 
         List<Vehicle> vehicles = Arrays.asList(
-                new Vehicle("VEH001", 100.0, 12.9716, 77.6413, "Indiranagar, Bangalore")
+                new Vehicle("VEH001", 100.0, 12.3180, 76.6548, "Vijayanagar, Mysore")
         );
 
         when(orderRepository.findAll()).thenReturn(orders);
