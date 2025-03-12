@@ -19,6 +19,7 @@ public class CorsConfig {
      *
      * @return a WebMvcConfigurer instance with CORS settings applied.
      */
+
     @Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurer() {
