@@ -175,15 +175,7 @@ dispatch-load-balancer/
 └── README.md
 ```
 
----
 
-## **Contact**
-For any questions or issues, please contact:
-
-- **Name**: Shrungadithya A N  
-- **Email**: shrungadithyaan@gmail.com  
-- **GitHub**: [Shrungadithyaan](https://github.com/Shrungadithyaan)  
-- **Portfolio**: [shrungadithya.netlify.app](https://shrungadithya.netlify.app/)
 
 ---
 
@@ -205,3 +197,13 @@ For any questions or issues, please contact:
 - [Java Enum Reference](https://www.w3schools.com/java/ref_keyword_enum.asp)
 - [Java Documentation](https://www.tutorialspoint.com/java/java_documentation.htm)
 - [Maven POM Guide](https://maven.apache.org/pom.html)
+
+---
+
+## **Contact**
+For any questions or issues, please contact:
+
+- **Name**: Shrungadithya A N
+- **Email**: shrungadithyaan@gmail.com
+- **GitHub**: [Shrungadithyaan](https://github.com/Shrungadithyaan)
+- **Portfolio**: [shrungadithya.netlify.app](https://shrungadithya.netlify.app/)
