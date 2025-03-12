@@ -1,6 +1,6 @@
 # Dispatch Load Balancer - Spring Boot Application
 
-![Dispatch Load Balancer](https://via.placeholder.com/800x400.png?text=Dispatch+Load+Balancer+Demo)
+
 
 This project is a **Spring Boot application** designed to optimize the allocation of delivery orders to a fleet of vehicles based on their locations. The goal is to minimize the total travel distance while considering vehicle capacities and order priorities. The application utilizes the **Haversine formula** to calculate distances between geographic coordinates.
 
