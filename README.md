@@ -7,9 +7,9 @@ This project is a **Spring Boot application** designed to optimize the allocatio
 ---
 
 ## **Technologies Used**
-- **Spring Boot** 3.x
 - **Java** 17
-- **H2 Database** 2.x (in-memory database for local development and testing)
+- **Spring Boot** 3.1.0
+- **H2 Database** 2.1.2 (in-memory database for local development and testing)
 - **Maven** 3.x (for dependency management)
 - **Mockito** 5.x (for unit testing)
 - **Swagger** (for API documentation)
