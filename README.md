@@ -62,16 +62,16 @@ The application calculates distances using the **Haversine formula** and follows
    mvn spring-boot:run
    ```
 
-4. **Access the Application**:
-   - Application runs at: `http://localhost:8080`
-   - Swagger UI: `http://localhost:8080/swagger-ui.html`
-
-5. **Run Tests**:
+4. **Run Tests**:
    To execute unit tests, run the following command:
-   
+
    ```bash
    mvn test
    ```
+
+5. **Access the Application**:
+- Application runs at: `http://localhost:8080`
+- Swagger UI: `http://localhost:8080/swagger-ui.html`
 ---
 
 ## **API Endpoints**
